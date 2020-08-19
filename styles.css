@@ -5,7 +5,7 @@
 }
 
 body{
-  background-color: #6e6d6d;
+  background-color: #fff;
 }
 .head{
   background: #25272E;
@@ -14,7 +14,7 @@ body{
 }
 
 .head > h1 {
-  color: white;
+  color: #6253D9;
   text-align: center;
   font-family: Asap, sans-serif;
 }
